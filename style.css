@@ -188,6 +188,7 @@ aside > ul {
 }
 
 footer {
+    margin-top: 10px;
     background-color: var(--color5);
     color: white;
     text-align: center;
